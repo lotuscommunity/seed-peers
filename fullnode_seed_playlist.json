@@ -1,22 +1,6 @@
 {
   "nodes": [
     {
-      "note": "0D",
-      "url": "http://35.184.98.21:8080"
-    },
-    {
-      "note": "0D",
-      "url": "http://104.154.120.174:8080"
-    },
-    {
-      "note": "db",
-      "url": "http://165.232.136.149:8080"
-    },
-    {
-      "note": "mb",
-      "url": "http://154.12.239.62:8080"
-    },
-    {
       "note": "daniyal",
       "url": "http://135.181.118.28:8080"
     },
@@ -31,18 +15,6 @@
     {
       "note": "gnudrew",
       "url": "http://63.229.234.77:8080"
-    },
-    {
-      "note": "svanakin",
-      "url": "http://65.108.195.43:8080"
-    },
-    {
-      "note": "svanakin",
-      "url": "http://65.108.143.43:8080"
-    },
-    {
-      "note": "IdleZone",
-      "url": "http://fullnode.letsmove.fun"
-    }  
+    } 
   ]
 }
