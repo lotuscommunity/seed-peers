@@ -1,6 +1,6 @@
 base:
   role: 'full_node'
-  data_dir: '$HOME/.libra/data'
+  data_dir: '{{home_path}}/data'
   waypoint:
      from_config: 0:95023f4d6a7e24cac3e52cad29697184db260214210b57aef3f1031ad4d8c02c
 
@@ -10,7 +10,7 @@ state_sync:
         continuous_syncing_mode: ExecuteTransactionsOrApplyOutputs
 
 execution:
-  genesis_file_location: '$HOME/.libra/genesis/genesis.blob'
+  genesis_file_location: '{{home_path}}/genesis.blob'
 
 full_node_networks:
 - network_id: 'public'
