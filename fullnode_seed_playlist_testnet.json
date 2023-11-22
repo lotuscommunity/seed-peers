@@ -1,16 +1,8 @@
 {
   "nodes": [
     {
-      "note": "TheOneID",
-      "url": "http://65.109.159.23:8080"
-    },
-    {
-      "note": "Bethose | SDL",
-      "url": "http://65.109.80.179:8080"
-    },
-    {
       "note": "sirouk",
-      "url": "http://204.186.74.42:8080"
+      "url": "https://testnet-rpc.openlibra.space:8080"
     }
   ]
 }
