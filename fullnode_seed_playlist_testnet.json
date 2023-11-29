@@ -1,8 +1,20 @@
 {
   "nodes": [
     {
+      "note": "mainnet-rpc",
+      "url": "https://rpc.openlibra.space:8080"
+    },
+    {
       "note": "sirouk",
-      "url": "https://testnet-rpc.openlibra.space:8080"
+      "url": "http://70.15.242.6:8080"
+    },
+    {
+      "note": "Alan Yoon",
+      "url": "http://222.101.31.242:8080"
+    },
+    {
+      "note": "Bethose | SDL",
+      "url": "http://65.109.80.179:8080"
     }
   ]
 }
