@@ -1,36 +1,20 @@
 {
   "nodes": [
     {
-      "note": "daniyal",
-      "url": "http://135.181.118.28:8080"
+      "note": "mainnet-rpc",
+      "url": "https://rpc.openlibra.space:8080/"
     },
     {
-      "note": "thenateway",
-      "url": "http://5.161.130.81:8080"
+      "note": "sirouk",
+      "url": "http://70.15.242.6:8080"
     },
     {
-      "note": "gnudrew",
-      "url": "http://63.229.234.76:8080"
+      "note": "Alan Yoon",
+      "url": "http://222.101.31.242:8080"
     },
     {
-      "note": "gnudrew",
-      "url": "http://63.229.234.77:8080"
+      "note": "Bethose | SDL",
+      "url": "http://65.109.80.179:8080"
     },
-    {
-      "note": "michael64",
-      "url": "http://65.108.14.25:8080"
-    },
-    {
-      "note": "bigbubbabeast",
-      "url": "http://142.132.207.31:8080"
-    },
-    {
-      "note": "polo",
-      "url": "http://144.76.104.93:8080"
-    },
-    {
-      "note": "ricoflan",
-      "url": "http://104.248.94.195:8080"
-    }
   ]
 }
